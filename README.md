@@ -9,7 +9,7 @@ This repository hosts **release installers only** for [ToolGrid App](https://www
 
 **Website (recommended):** https://www.toolgrid.io/download
 
-**GitHub Releases:** https://github.com/meetamjadsaeed/toolgrid-App-releases/releases
+**GitHub Releases:** https://github.com/meetamjadsaeed/toolgrid-Apps-releases/releases
 
 ## Installer file names
 
